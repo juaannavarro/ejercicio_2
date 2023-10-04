@@ -19,3 +19,17 @@ Modelo 2)
 Modelo 3)
 
 <img width="634" alt="Captura de pantalla 2023-10-04 a las 19 05 56" src="https://github.com/juaannavarro/ejercicio_2/assets/91721668/e000cc19-169a-4cf6-9030-90019043552d">
+
+Modelo 1 Variante 1
+
+
+
+Modelo 1 Variante 2
+
+
+
+Modelo 1 Variante 3
+
+
+
+Modelo 1 Variante 4
