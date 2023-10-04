@@ -1,1 +1,1 @@
-# ej2_I.O.
+# ejercicio 2_I.O.
